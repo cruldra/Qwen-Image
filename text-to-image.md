@@ -6,7 +6,10 @@
 4. 把[Qwen-Image.zip](./Qwen-Image.zip)上传到`/hy-tmp`目录,然后`unzip Qwen-Image.zip -d qwimg`解压
 5. 打开[text-to-image.ipynb](./text-to-image.ipynb)笔记本,然后运行所有单元格
 
+# 注意事项
+
+1. 确保`pytorch`版本大于`2.5`
 
 # 下一步
 
-- [ ] 多测试一些提示词
+- [x] 多测试一些提示词
